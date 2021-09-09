@@ -13,4 +13,5 @@ You need Python 3 to run FIREWORDS.
 FIREWORDS has configuration file firewords.cfg with instructions.
 
 # Screenshot
-![Screenshot from 2021-09-09 23-53-00](https://user-images.githubusercontent.com/88471935/132638069-95e3d57f-6d07-4ece-9fca-8d4761211d7d.png)
+![Screenshot from 2021-09-09 23-53-00](https:/![IMG_20210909_140939](https://user-images.githubusercontent.com/88471935/132652994-a47db72f-f87b-4f7c-bbd8-46201e8382c8.jpg)
+
